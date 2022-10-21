@@ -1,12 +1,14 @@
 # COSC2671-A2
 
-COSC2671_A2_EDA.ipynb - Exploratory data analysis
+## Core files
 
-community_detection_language.ipynb - Community detection languages.
+- COSC2671_A2_EDA.ipynb - Exploratory data analysis
 
-SNA-graph-follower-following.ipynb - social networks analysis.
+- community_detection_language.ipynb - Community detection languages.
 
-rec-sys-baseline.ipynb - analysis for recommender systems
+- SNA-graph-follower-following.ipynb - social networks analysis.
+
+- rec-sys-baseline.ipynb - analysis for recommender systems
 
 ## Data Collection Scripts
 
