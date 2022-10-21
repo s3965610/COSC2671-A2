@@ -1,5 +1,9 @@
 # COSC2671-A2
 
+## FOR JEFF
+
+All of the core files should run fine with as they use data located in ./data or in the root of the repository. However, the `rec-sys-baseline.ipynb` file relies on a egonets data of which only a subset has been uploaded so this notebook may fail (it crashed once and then ran fine the next time).
+
 ## Core files
 
 - COSC2671_A2_EDA.ipynb - Exploratory data analysis
