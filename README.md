@@ -1,6 +1,25 @@
 # COSC2671-A2
 
-COSC
+COSC2671_A2_EDA.ipynb - Exploratory data analysis
+
+community_detection_language.ipynb - Community detection languages.
+
+SNA-graph-follower-following.ipynb - social networks analysis.
+
+rec-sys-baseline.ipynb - analysis for recommender systems
+
+## Data Collection Scripts
+
+- get_ego_nets.py - gathers data to be used for egonets
+
+- get_trending_data.py - gathers data from todays trending page
+
+- get_user_info.py - gathers user informations for supplied unames
+
+- get_user_logins.py - retrieves user identifiers
+
+- get_user_repos.py - retrieves repositories given user identifiers
+
 
 ## Data
 
